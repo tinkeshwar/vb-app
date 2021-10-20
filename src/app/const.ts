@@ -1,0 +1,1 @@
+export const ApiUrl = 'http://172.16.1.238:8000/api/company/'
